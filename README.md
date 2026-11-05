@@ -37,6 +37,7 @@ These are investigator-reported observations and constraints. GPT-6 did not inde
 | [Experiment log](experiment-log.md) | Reported sequence of observations and interventions; unresolved details and pending follow-up |
 | [Hypotheses](hypotheses.md) | Candidate mechanisms and competing explanations, explicitly marked as untested |
 | [Human–AI collaboration](human-ai-collaboration.md) | Human initiative, AI analytical assistance, and the emergence of the workflow |
+| [Researcher notes](researcher-notes/README.md) | Selected phone screenshots showing adapted English dialogue, humor, and the conversational development of the case |
 | [Results](results.md) | Reported earlier reduction; pending cleaner outcome and interpretation limits |
 | [Assets guidance](assets/README.md) | Guidance for adding anonymized photographs or supporting material later |
 
@@ -65,6 +66,6 @@ The principal investigator has a background in biology, remembers her chemistry 
 
 The initial documentation is reconstructed from Oleksandra's supplied case brief. Relative order is recorded where reported; precise experimental dates, quantities, exposure times, ingredients, and measurements are not reconstructed. Git commit dates record documentation activity, not intervention dates.
 
-Future updates should preserve the earlier record, distinguish newly reported observations from interpretations, and leave unavailable details explicitly unrecorded. No conversation quotations or photographs are included in the initial documentation.
+Future updates should preserve the earlier record, distinguish newly reported observations from interpretations, and leave unavailable details explicitly unrecorded. No conversation quotations or photographs were included in the initial documentation. Selected phone screenshots were subsequently added to [researcher notes](researcher-notes/README.md); their adapted and reconstructed content is explicitly identified there.
 
 *The fragrance has not yet surrendered. Investigation continues.*

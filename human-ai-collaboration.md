@@ -43,8 +43,12 @@ An informal, associative conversation can develop into a concrete, user-directed
 
 The two inquiry threads remain connected but distinct: the jacket's practical outcome is pending, while the evolution of the collaboration can already be described from the investigator's account. Neither establishes a general measure of AI capability or a causal claim about the value of AI assistance.
 
+## Researcher notes: conversational texture
+
+The [researcher notes](researcher-notes/README.md) contain three phone screenshots selected and supplied by Oleksandra. They preserve the phone interface and surrounding commentary while showing adapted English exchanges and a humorous project summary. The accompanying README identifies the dialogue as reconstructed and translated, not verbatim. This material illustrates the informal tone around the case; it does not establish experimental outcomes or replace the factual log.
+
 ## Provenance and limits
 
-This initial record is a structured account based on Oleksandra's supplied brief, not a verbatim conversation transcript or an independently coded interaction dataset. No conversation quotations, invented dialogue, exact message timings, or reconstructed model responses are included. The collaborator designation “GPT-6” follows the case brief; no finer model-version or runtime metadata is inferred.
+The initial record was a structured account based on Oleksandra's supplied brief, not a verbatim conversation transcript or an independently coded interaction dataset. It contained no conversation quotations, invented dialogue, exact message timings, or reconstructed model responses. The subsequently added researcher notes present selected screenshots containing explicitly identified adaptations and reconstructions; they do not supply a verbatim transcript. The collaborator designation “GPT-6” follows the case brief; no finer model-version or runtime metadata is inferred.
 
 The repository documents this case only. It does not claim that a protocol, systematic interaction study, or comparative evaluation was conducted. Subsequent updates should preserve the distinction between firsthand observation, retrospective account, and AI-assisted interpretation.
