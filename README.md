@@ -2,7 +2,7 @@
 
 An exploratory single-jacket field study documenting persistent fragrance odor and spontaneous human–AI collaboration.
 
-**Status: ongoing; odor outcome pending.** Oleksandra reports a partial, surface-level cleaner treatment with **15 minutes of contact**, followed by rinsing with water. The jacket was hung on the balcony on **2026-11-05 at 12:30, Kyiv local time**, for drying/airing. It did not undergo a full wash. No follow-up odor assessment has yet been reported.
+**Status: ongoing; odor outcome pending.** Oleksandra reports a partial, surface-level cleaner treatment with **15 minutes of contact**, followed by rinsing with water. The jacket was hung on the balcony on **2026-11-05 at 12:30, Kyiv local time**, for drying/airing. It did not undergo a full wash. At **17:48 the same day**, Oleksandra reported that it was still on the balcony, **5 hours 18 minutes after hanging** (calculated from the reported times). No follow-up odor assessment has yet been reported.
 
 ## How this started
 

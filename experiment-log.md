@@ -4,7 +4,7 @@
 
 ## Record basis
 
-Entries E01–E07 reconstruct the initial case brief; their precise event dates were not supplied. Entries E08–E10 record Oleksandra's subsequent firsthand update on 2026-11-05. All entries are investigator reports, not independent AI observations. Numbering indicates reported sequence, not measured intervals. The reported balcony-hanging time uses Kyiv local time; no treatment start time is inferred from it.
+Entries E01–E07 reconstruct the initial case brief; their precise event dates were not supplied. Entries E08–E11 record Oleksandra's subsequent firsthand updates on 2026-11-05. All entries are investigator reports, not independent AI observations. Numbering indicates reported sequence, not measured intervals. The reported balcony-hanging time uses Kyiv local time; no treatment start time is inferred from it.
 
 ## Reported sequence
 
@@ -20,10 +20,13 @@ Entries E01–E07 reconstruct the initial case brief; their precise event dates 
 | E08 | On 2026-11-05, Oleksandra reported treating the jacket with the probiotic cleaner and leaving it in contact for 15 minutes. | Partial, surface-level treatment, with contact wherever the cleaner penetrated; no full wash. Exact coverage, penetration depth, application quantity, and dilution were not recorded. | Firsthand report of completed treatment; no exact start or end time supplied. |
 | E09 | Following the 15-minute treatment, the cleaner was rinsed off with water. | Rinsing was reported; water quantity and rinse duration were not recorded. The jacket did not undergo a full wash. | Firsthand report of completed rinsing; no separate rinse timestamp supplied. |
 | E10 | The jacket was hung on the balcony on 2026-11-05 at 12:30, Kyiv local time, for drying/airing. | Hanging time reported by the investigator. No subsequent odor assessment or drying-completion time was reported. | Hanging reported as completed; drying progress and treatment outcome remain pending. |
+| E11 | On 2026-11-05 at 17:48, Kyiv local time, Oleksandra reported that the jacket was still on the balcony. | Elapsed time since the reported 12:30 hanging: 5 hours 18 minutes, calculated from the two reported times. | Firsthand location/status update; no drying-completion time or odor outcome supplied in this update. |
 
 ### Follow-up provenance
 
 E08–E10 were added from Oleksandra's direct update after the repository was created. She reported the 15-minute treatment, water rinsing, and 12:30 balcony-hanging time. The calendar date is the date of that update (2026-11-05). The reported contact duration does not establish a 12:15 treatment start: rinsing and handling occurred before hanging, with their durations unrecorded.
+
+E11 records a later same-day follow-up from the investigator. The 17:48 time was supplied directly; the 5-hour-18-minute interval is a calculation, not a measured drying duration.
 
 ## Pending record
 

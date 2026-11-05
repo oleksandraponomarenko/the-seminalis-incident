@@ -22,7 +22,7 @@ This is a qualitative, firsthand assessment. No numerical reduction, instrumenta
 | Rinsing | Cleaner rinsed off with water after treatment; rinse duration and water quantity not recorded. |
 | Verified ingredient composition | Not recorded. |
 | Subsequent perfume-odor assessment | Pending. |
-| Subsequent drying / airing | Hung on the balcony on 2026-11-05 at 12:30, Kyiv local time. Drying-completion time and environmental conditions not recorded. |
+| Subsequent drying / airing | Hung on the balcony on 2026-11-05 at 12:30, Kyiv local time; still on the balcony at 17:48 that day, as reported by Oleksandra. Elapsed interval: 5 hours 18 minutes, calculated from those times. Drying-completion time and environmental conditions not recorded. |
 | Garment condition after cleaner use | Not recorded. |
 | Cleaner efficacy conclusion | Not established. |
 | Probiotic-specific mechanism | Not established. |
@@ -35,4 +35,4 @@ Even if a future improvement is reported, this uncontrolled sequence cannot isol
 
 ## Next update
 
-Application and initial balcony-hanging details are now recorded in entries E08–E10. Add the investigator's actual follow-up odor observations and any further available application details to the [experiment log](experiment-log.md), then update this file. Preserve unknowns; do not backfill missing quantities, dates, measurements, or outcomes.
+Application and initial balcony-hanging details are recorded in entries E08–E10; entry E11 adds the 17:48 balcony follow-up. Add the investigator's actual follow-up odor observations and any further available application details to the [experiment log](experiment-log.md), then update this file. Preserve unknowns; do not backfill missing quantities, dates, measurements, or outcomes.
