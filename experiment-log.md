@@ -4,7 +4,7 @@
 
 ## Record basis
 
-This is a retrospective sequence reconstructed from Oleksandra's case brief, followed by space for prospective updates. Entries are investigator reports, not independent AI observations. Precise event dates were not supplied; numbering indicates reported order, not measured intervals. The approximately six-month persistence and overnight airing are the only durations supplied.
+Entries E01–E07 reconstruct the initial case brief; their precise event dates were not supplied. Entries E08–E10 record Oleksandra's subsequent firsthand update on 2026-11-05. All entries are investigator reports, not independent AI observations. Numbering indicates reported sequence, not measured intervals. The reported balcony-hanging time uses Kyiv local time; no treatment start time is inferred from it.
 
 ## Reported sequence
 
@@ -16,13 +16,20 @@ This is a retrospective sequence reconstructed from Oleksandra's case brief, fol
 | E04 | Washing options were evaluated. | Machine washing was unsuitable because this washing machine had previously caused synthetic insulation to clump. Full hand washing was undesirable because of prolonged drying and concern about additional unpleasant odor. | Reported constraints; neither washing option is documented as performed in this sequence. |
 | E05 | Oleksandra proposed a commercially available probiotic cleaner intended for pet-related odors. | She had previously used this type of cleaner successfully for its intended household purpose. | User-generated intervention hypothesis; earlier household success is not evidence of perfume removal. |
 | E06 | A larger bottle was purchased for ordinary household use and the jacket experiment. | Selection and purchase were made by the human investigator. | Purchase reported as completed; no inferred purchase date or volume. |
-| E07 | The new cleaner was introduced into the experiment. | Effectiveness against residual perfume odor has not yet been established. | Introduction reported; application details and outcome remain undocumented. |
+| E07 | The new cleaner was introduced into the experiment. | Effectiveness against residual perfume odor has not yet been established. | At initial documentation, application details were unrecorded. Application was subsequently clarified in E08–E10; odor outcome remains pending. |
+| E08 | On 2026-11-05, Oleksandra reported treating the jacket with the probiotic cleaner and leaving it in contact for 15 minutes. | Partial, surface-level treatment, with contact wherever the cleaner penetrated; no full wash. Exact coverage, penetration depth, application quantity, and dilution were not recorded. | Firsthand report of completed treatment; no exact start or end time supplied. |
+| E09 | Following the 15-minute treatment, the cleaner was rinsed off with water. | Rinsing was reported; water quantity and rinse duration were not recorded. The jacket did not undergo a full wash. | Firsthand report of completed rinsing; no separate rinse timestamp supplied. |
+| E10 | The jacket was hung on the balcony on 2026-11-05 at 12:30, Kyiv local time, for drying/airing. | Hanging time reported by the investigator. No subsequent odor assessment or drying-completion time was reported. | Hanging reported as completed; drying progress and treatment outcome remain pending. |
+
+### Follow-up provenance
+
+E08–E10 were added from Oleksandra's direct update after the repository was created. She reported the 15-minute treatment, water rinsing, and 12:30 balcony-hanging time. The calendar date is the date of that update (2026-11-05). The reported contact duration does not establish a 12:15 treatment start: rinsing and handling occurred before hanging, with their durations unrecorded.
 
 ## Pending record
 
 The following are gaps for future reporting, not claims that an action has occurred or instructions to perform it:
 
-- Clarify what introducing the cleaner involved: whether it was applied, and any firsthand application details available.
+- Add any further firsthand application details if available; quantity, dilution, exact coverage, and penetration depth remain unrecorded. Application, 15-minute contact, water rinsing, and balcony hanging are now documented in E08–E10.
 - Record any available product identification or label information without inferring ingredients from the word “probiotic.”
 - Record the investigator's subsequent odor observations, including whether the assessment was made while the jacket was damp or after drying, if known.
 - Distinguish residual perfume from any cleaner scent or newly noticed odor.

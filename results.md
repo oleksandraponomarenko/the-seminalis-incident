@@ -16,21 +16,23 @@ This is a qualitative, firsthand assessment. No numerical reduction, instrumenta
 | --- | --- |
 | Selection and purchase | Reported as completed by Oleksandra; a larger bottle was purchased for ordinary household use and the additional experiment. |
 | Introduction into experiment | Reported. |
-| Application status and method | Not documented in sufficient detail to establish whether or how it was applied. |
-| Quantity, dilution, and exposure time | Not recorded. |
+| Application status and method | Completed, as reported by Oleksandra on 2026-11-05: partial, surface-level cleaner treatment; contact wherever it penetrated. No full wash. Exact coverage and penetration depth remain unrecorded. |
+| Cleaner contact duration | 15 minutes, reported by the investigator. Exact contact start/end times were not supplied. |
+| Quantity and dilution | Not recorded. |
+| Rinsing | Cleaner rinsed off with water after treatment; rinse duration and water quantity not recorded. |
 | Verified ingredient composition | Not recorded. |
 | Subsequent perfume-odor assessment | Pending. |
-| Subsequent drying or ventilation details | Not recorded. |
+| Subsequent drying / airing | Hung on the balcony on 2026-11-05 at 12:30, Kyiv local time. Drying-completion time and environmental conditions not recorded. |
 | Garment condition after cleaner use | Not recorded. |
 | Cleaner efficacy conclusion | Not established. |
 | Probiotic-specific mechanism | Not established. |
 
 ## Interpretation boundary
 
-The cleaner's prior success for its intended household purpose does not establish perfume-removal efficacy. No success or failure is assigned to the jacket intervention in this initial record.
+The cleaner's prior success for its intended household purpose does not establish perfume-removal efficacy. No success or failure is assigned to the jacket intervention in the current record.
 
 Even if a future improvement is reported, this uncontrolled sequence cannot isolate probiotic action from the cleaner's overall formulation, moisture, ventilation, elapsed time, or previous treatments. Any result will describe one jacket under the reported circumstances, not general product efficacy.
 
 ## Next update
 
-Add the investigator's actual follow-up observations and any available application details to the [experiment log](experiment-log.md), then update this file. Preserve unknowns; do not backfill missing quantities, dates, measurements, or outcomes.
+Application and initial balcony-hanging details are now recorded in entries E08–E10. Add the investigator's actual follow-up odor observations and any further available application details to the [experiment log](experiment-log.md), then update this file. Preserve unknowns; do not backfill missing quantities, dates, measurements, or outcomes.

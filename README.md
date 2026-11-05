@@ -2,7 +2,7 @@
 
 An exploratory single-jacket field study documenting persistent fragrance odor and spontaneous human–AI collaboration.
 
-**Status: ongoing.** A probiotic cleaner has been introduced into the experiment; its effectiveness against residual perfume odor remains **pending**. Application details have not yet been documented.
+**Status: ongoing; odor outcome pending.** Oleksandra reports a partial, surface-level cleaner treatment with **15 minutes of contact**, followed by rinsing with water. The jacket was hung on the balcony on **2026-11-05 at 12:30, Kyiv local time**, for drying/airing. It did not undergo a full wash. No follow-up odor assessment has yet been reported.
 
 ## How this started
 
@@ -25,7 +25,8 @@ This is a real, ongoing case. It is not fictional, a synthetic benchmark, or an 
 - She reported that these interventions reduced the odor but did not eliminate it. Their separate contributions are unknown.
 - Machine washing was considered unsuitable because her washing machine had previously caused synthetic insulation to clump.
 - Full hand washing was undesirable because of prolonged drying time and concern about an additional unpleasant odor developing.
-- A probiotic cleaner was introduced into the experiment. Its effectiveness against the residual perfume odor has not been established.
+- In a subsequent firsthand update, Oleksandra confirmed a partial, surface-level treatment with the probiotic cleaner for 15 minutes, followed by rinsing with water. Contact extended wherever the cleaner penetrated; the exact coverage and penetration depth were not documented. This was not a full wash.
+- She hung the jacket on the balcony on 2026-11-05 at 12:30, Kyiv local time. Effectiveness against the residual perfume odor remains pending.
 
 These are investigator-reported observations and constraints. GPT-6 did not independently inspect or smell the jacket.
 

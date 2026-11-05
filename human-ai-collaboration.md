@@ -15,10 +15,14 @@ The trajectory, reconstructed from the supplied case brief, was:
 3. Household chemistry discussion.
 4. User-generated probiotic-cleaner hypothesis.
 5. Evaluation of practical constraints.
-6. Real-world interventions and introduction of the cleaner, with application details unrecorded.
+6. Real-world interventions and introduction of the cleaner, with application details initially unrecorded.
 7. Structured GitHub documentation.
 
 This describes the development of the workflow. It does not imply that every earlier physical intervention occurred during the conversation; vinegar treatment and airing are recorded retrospectively in the experiment log.
+
+## Follow-up: intervention reporting
+
+After the repository was created, Oleksandra supplied a further firsthand update: partial, surface-level cleaner treatment for 15 minutes, rinsing with water, and hanging the jacket on the balcony on 2026-11-05 at 12:30, Kyiv local time. She clarified that the jacket had not undergone a full wash and that contact extended wherever the cleaner penetrated. GPT-6 incorporated that account into the log, overview, and current results record while leaving odor efficacy pending. This update continues the same division of responsibility: human action and observation, AI-assisted documentation.
 
 ## Contribution record
 
