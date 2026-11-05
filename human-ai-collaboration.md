@@ -6,7 +6,7 @@
 
 The case began in an informal conversation between Oleksandra and GPT-6 about fragrance preferences. A real jacket with a persistent perfume odor became the practical focus. Discussion expanded to household chemistry, possible mechanisms, and the constraints that made conventional washing unattractive.
 
-Oleksandra proposed trying a probiotic cleaner intended for pet-related odors. Her prior household experience with this type of product informed that choice. She selected and purchased a larger bottle for household use and the additional jacket experiment. The cleaner was introduced into the experiment, with effectiveness still unresolved. The conversation subsequently became a structured documentation task.
+Oleksandra proposed trying a probiotic cleaner intended for pet-related odors. Her prior household experience with this type of product informed that choice. She selected and purchased a larger bottle for household use and the additional jacket experiment. The cleaner was introduced into the experiment, with effectiveness initially unresolved. The conversation subsequently became a structured documentation task.
 
 The trajectory, reconstructed from the supplied case brief, was:
 
@@ -22,7 +22,11 @@ This describes the development of the workflow. It does not imply that every ear
 
 ## Follow-up: intervention reporting
 
-After the repository was created, Oleksandra supplied a further firsthand update: partial, surface-level cleaner treatment for 15 minutes, rinsing with water, and hanging the jacket on the balcony on 2026-11-05 at 12:30, Kyiv local time. She clarified that the jacket had not undergone a full wash and that contact extended wherever the cleaner penetrated. GPT-6 incorporated that account into the log, overview, and current results record while leaving odor efficacy pending. This update continues the same division of responsibility: human action and observation, AI-assisted documentation.
+After the repository was created, Oleksandra supplied a further firsthand update: partial, surface-level cleaner treatment for 15 minutes, rinsing with water, and hanging the jacket on the balcony on 2026-11-05 at 12:30, Kyiv local time. She clarified that the jacket had not undergone a full wash and that contact extended wherever the cleaner penetrated. GPT-6 incorporated that account into the log, overview, and current results record while leaving the odor outcome pending at that stage. This update continues the same division of responsibility: human action and observation, AI-assisted documentation.
+
+## Final report and closure
+
+On 2026-11-05, Oleksandra reported that the perfume odor had become weaker and acceptable to smell, considered the cleaner helpful, and decided to end the experiment. GPT-6 documented that qualitative outcome and updated the study status. Her suggestion that fewer fragrance molecules remained was kept separate from the observation because no molecule quantity was measured. The decision that the practical endpoint had been reached remained with the human investigator.
 
 ## Contribution record
 
@@ -41,7 +45,7 @@ The user-generated cleaner hypothesis should not be retrospectively recast as an
 
 An informal, associative conversation can develop into a concrete, user-directed workflow: a person introduces a real problem and an intervention idea, while an AI contributes analysis and documentation. The structure emerges around the user's decisions rather than from a predefined demonstration script.
 
-The two inquiry threads remain connected but distinct: the jacket's practical outcome is pending, while the evolution of the collaboration can already be described from the investigator's account. Neither establishes a general measure of AI capability or a causal claim about the value of AI assistance.
+The two inquiry threads remain connected but distinct: the jacket's practical outcome is an investigator-reported improvement, and the collaboration is described from the investigator's account and subsequent reporting. Neither establishes a general measure of AI capability or a causal claim about the value of AI assistance.
 
 ## Researcher notes: conversational texture
 

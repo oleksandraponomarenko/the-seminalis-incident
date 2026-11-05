@@ -18,7 +18,7 @@ These are authentic screenshots of chat messages containing **adapted, reconstru
 
 - Phone-clock readings show the screen-capture context; they are not timestamps for the experimental interventions.
 - The first adapted excerpt uses “down jacket”; the factual case record describes a **synthetic-insulation jacket**.
-- References to biotechnology, ethics approval, subject consent, and the jacket's cooperation are jokes. The summary heading does not establish odor removal or identify the cleaning product. The odor outcome remains **pending**.
+- References to biotechnology, ethics approval, subject consent, and the jacket's cooperation are jokes. The summary heading does not establish odor removal or identify the cleaning product. The outcome was **pending when this material was prepared**. The investigator subsequently reported a weaker, acceptable odor and closed the study; see [results](../results.md).
 
 The [experiment log](../experiment-log.md) and [results](../results.md) remain the factual record of reported actions and observations. No new treatment outcome is inferred from these images.
 
@@ -36,7 +36,7 @@ A reconstructed exchange about the purchased cleaner and moving from discussion 
 
 ## 03 — A playful research-team summary
 
-The project receives a mock research-team introduction while its actual treatment outcome remains pending.
+The project receives a mock research-team introduction from the stage when its treatment outcome was still pending. The image is preserved unchanged as historical conversational material.
 
 ![Phone screenshot showing the humorous research-team summary and pending experimental status](03-research-team.png)
 
